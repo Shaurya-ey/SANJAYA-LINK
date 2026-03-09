@@ -11,9 +11,9 @@ VIDURA-LINK is a custom 1-Watt telemetry and control system built for drones, fi
 
 | Item | Description | Quantity | Total Price (USD) | URL |
 |------|------------|----------|-------------------|-----|
-| 100nF 0402 Capacitor | Ceramic capacitor 100nF 0402 package | 24 | 0.18 | |
+| 100nF 0402 Capacitor | Ceramic capacitor 100nF 0402 package | 24 | 0.18 |https://robu.in/product/gcm155l8eh104ke07d-murata-electronics-50v-100nf-x8l-%c2%b110-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/ |
 | 1uF 0402 Capacitor | Ceramic capacitor 1uF 0402 package | 4 | 0.40 | |
-| 15pF 0402 Capacitor | Ceramic capacitor 15pF 0402 package | 5 | 0.12 | |
+| 15pF 0402 Capacitor | Ceramic capacitor 15pF 0402 package | 5 | 0.12 |https://robu.in/product/gjm1555c1h150fb01d-murata-electronics-50v-15pf-c0g-%c2%b11-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/ |
 | 10uF 0402 Capacitor | Ceramic capacitor 10uF 0402 package | 4 | 1.04 | |
 | 1nF 0402 Capacitor | Ceramic capacitor 1nF 0402 package | 2 | 0.28 | |
 | 39pF 0402 Capacitor | Ceramic capacitor 39pF 0402 package | 2 | 0.20 | |
@@ -35,23 +35,23 @@ VIDURA-LINK is a custom 1-Watt telemetry and control system built for drones, fi
 | 1kΩ 0402 Resistor | Resistor 1kΩ | 8 | 0.79 | |
 | 5.1kΩ 0402 Resistor | Resistor 5.1kΩ | 4 | 0.40 | |
 | Tactile Switch | Reset / Boot tactile switch | 4 | 0.88 | |
-| SX1262IMLTRT | LoRa transceiver IC | 2 | 6.22 | |
-| RP2040 | Microcontroller | 2 | 1.74 | |
+| SX1262IMLTRT | LoRa transceiver IC | 2 | 6.22 |https://robu.in/product/sx1262imltrt-semitech-300kbps-general-purposeism1ghz-spi-qfn-24-ep4x4-rf-transceiver-ics-rohs/ |
+| RP2040 | Microcontroller | 2 | 1.74 |https://robu.in/product/raspberry-pi-rp2040/ |
 | W25Q64JVSSIQ | SPI Flash memory | 2 | 4.40 | |
 | AP2127K-3.3 | 3.3V LDO regulator | 2 | 0.38 | |
 | RF Switch SPDT | RF switch SC70-6 | 2 | 1.56 | |
-| 32MHz Crystal | System clock crystal | 2 | 0.88 | |
-| 12MHz Crystal | System clock crystal | 2 | 0.40 | |
+| 32MHz Crystal | System clock crystal | 2 | 0.88 | https://robu.in/product/yxc-ysx221sl-32mhz-12pf-20ppm-4pad-smd-smt-crystal/|
+| 12MHz Crystal | System clock crystal | 2 | 0.40 |https://robu.in/product/ysx321sl-12mhz-10pf-10ppm-4pins-smd-smt-metal-surface-quartz-crystal-pack-of-2/ |
 | Schottky Diode | Fast switching diode | 2 | 0.46 | |
 | USBLC6-2SC6 | USB ESD protection | 2 | 0.70 | |
 | TPD1E05U06 | ESD protection diode | 2 | 0.70 | |
 | MF-MSMF050 | Resettable fuse | 2 | 1.02 | |
-| Header Pins | Pin headers | 2 | 0.13 | |
+| Header Pins | Pin headers | 2 | 0.13 |https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/ |
 | 865–868MHz Antenna | Rubber duck antenna | 1 | 0.69 | |
-| Solder Wire | Soldering wire | 1 | 3.30 | |
+| Solder Wire | Soldering wire | 1 | 3.30 | https://robu.in/product/soldering-wire-1-mm-100g/|
 | Soldering Flux | Flux for soldering | 1 | 3.24 | |
 | Tip Tinner | Soldering tip cleaner | 1 | 5.41 | |
-| Hot Air Station | YIHUA 8858-IV portable | 1 | 25.09 | |
+| Hot Air Station | YIHUA 8858-IV portable | 1 | 25.09 |https://robu.in/product/yihua-8858-iv-portable-hot-air-station/ |
 | PCB | Printed circuit board | 1 | 24.14 | |
 | Shipping | Shipping fee | 1 | 13.01 | |
 | **TOTAL** |  |  | **109.71 USD** | |
