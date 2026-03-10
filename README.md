@@ -29,7 +29,7 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 
 ## How To Use
 - **Connect:** Plug the module into your computer via the USB-C port to load your code.
-- **Power:**You can run it off a battery or the USB supply; I’ve included a regulator to keep the power clean and stable.
+- **Power:** You can run it off a battery or the USB supply; I’ve included a regulator to keep the power clean and stable.
 - **Lesss Goo** Just write your script, upload it, and watch it start communicating over the LoRa network.
 
 ---
