@@ -1,6 +1,6 @@
 # SANJAYA-LINK
 
-<img width="626" height="578" alt="pcbfront" src="https://github.com/user-attachments/assets/c3369427-1581-4659-8ab2-9adb238aad8e" /> <img width="590" height="582" alt="pcbback" src="https://github.com/user-attachments/assets/a0e73dcb-63ba-456d-a128-28c25953e38f" />
+<img width="626" height="578" alt="pcbfront" src="https://github.com/user-attachments/assets/c3369427-1581-4659-8ab2-9adb238aad8e" /> <img width="626" height="578" alt="pcbback" src="https://github.com/user-attachments/assets/a0e73dcb-63ba-456d-a128-28c25953e38f" />
 
 ## Overview
 
