@@ -75,6 +75,6 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 | Soldering Flux | Flux for soldering | 1 | 3.24 | |
 | Tip Tinner | Soldering tip cleaner | 1 | 5.41 | |
 | Hot Air Station | YIHUA 8858-IV portable | 1 | 25.09 |https://robu.in/product/yihua-8858-iv-portable-hot-air-station/ |
-| PCB | Printed circuit board | 1 | 24.14 | |
-| Shipping | Shipping fee | 1 | 13.01 | |
+| PCB Manufacturing | Printed circuit board | 1 | 24.14 | |
+| **Shipping** | **Shipping fee** | 1 | 13.01 | |
 | **TOTAL** |  |  | **109.71 USD** | |
