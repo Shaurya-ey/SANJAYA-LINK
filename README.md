@@ -45,45 +45,45 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 | Item | Description | Quantity | Total Price (USD) | URL |
 |------|------------|----------|-------------------|-----|
 | 100nF 0402 Capacitor | Ceramic capacitor 100nF 0402 package | 24 | 0.18 |https://robu.in/product/gcm155l8eh104ke07d-murata-electronics-50v-100nf-x8l-%c2%b110-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/ |
-| 1uF 0402 Capacitor | Ceramic capacitor 1uF 0402 package | 4 | 0.40 | |
+| 1uF 0402 Capacitor | Ceramic capacitor 1uF 0402 package | 4 | 0.40 |https://www.digikey.in/en/products/detail/murata-electronics/GRM155R61H105ME05D/12091059 |
 | 15pF 0402 Capacitor | Ceramic capacitor 15pF 0402 package | 5 | 0.12 |https://robu.in/product/gjm1555c1h150fb01d-murata-electronics-50v-15pf-c0g-%c2%b11-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/ |
-| 10uF 0402 Capacitor | Ceramic capacitor 10uF 0402 package | 4 | 1.04 | |
-| 1nF 0402 Capacitor | Ceramic capacitor 1nF 0402 package | 2 | 0.28 | |
-| 39pF 0402 Capacitor | Ceramic capacitor 39pF 0402 package | 2 | 0.20 | |
-| 3.3pF 0402 Capacitor | Ceramic capacitor 3.3pF 0402 package | 4 | 0.40 | |
-| 470nF 0402 Capacitor | Ceramic capacitor 470nF 0402 package | 2 | 0.22 | |
-| 47pF 0402 Capacitor | Ceramic capacitor 47pF 0402 package | 4 | 0.12 | |
-| Blue LED 0402 | Blue indicator LED | 2 | 0.38 | |
-| Red LED 0402 | Red indicator LED | 2 | 0.38 | |
-| BLM15AX102SN1D | Ferrite bead 1kΩ @100MHz 0402 | 2 | 0.20 | |
-| 0900FM15K0039001E | LoRa RF front-end filter | 2 | 0.90 | |
-| USB-C Port | USB Type-C receptacle | 2 | 1.54 | |
-| SMA Connector | RF antenna connector | 2 | 6.56 | |
-| 15uH 0402 Inductor | Power inductor 15uH | 3 | 0.12 | |
-| 47nH 0402 Inductor | RF inductor 47nH | 2 | 0.20 | |
-| 9.1nH 0402 Inductor | RF inductor 9.1nH | 4 | 0.13 | |
-| 100Ω 0402 Resistor | Resistor 100Ω | 2 | 0.20 | |
-| 10kΩ 0402 Resistor | Resistor 10kΩ | 2 | 0.20 | |
-| 27.4Ω 0402 Resistor | Resistor 27.4Ω | 4 | 0.40 | |
-| 1kΩ 0402 Resistor | Resistor 1kΩ | 8 | 0.79 | |
-| 5.1kΩ 0402 Resistor | Resistor 5.1kΩ | 4 | 0.40 | |
-| Tactile Switch | Reset / Boot tactile switch | 4 | 0.88 | |
+| 10uF 0402 Capacitor | Ceramic capacitor 10uF 0402 package | 4 | 1.04 | https://www.digikey.in/en/products/detail/murata-electronics/GRT155R61A106ME13D/19115561|
+| 1nF 0402 Capacitor | Ceramic capacitor 1nF 0402 package | 2 | 0.28 |https://www.digikey.in/en/products/detail/kemet/C0402C102K5GECAUTO7411/8648675 |
+| 39pF 0402 Capacitor | Ceramic capacitor 39pF 0402 package | 2 | 0.20 |https://www.digikey.in/en/products/detail/murata-electronics/GCM1555C1H390JA16J/4903596 |
+| 3.3pF 0402 Capacitor | Ceramic capacitor 3.3pF 0402 package | 4 | 0.40 | https://www.digikey.in/en/products/detail/murata-electronics/GJM1555C1H3R3CB01D/702288|
+| 470nF 0402 Capacitor | Ceramic capacitor 470nF 0402 package | 2 | 0.22 |https://www.digikey.in/en/products/detail/murata-electronics/GRM155R61A474KE15D/702528 |
+| 47pF 0402 Capacitor | Ceramic capacitor 47pF 0402 package | 4 | 0.12 |https://robu.in/product/gcm1555c1h470fa16d-murata-electronics-50v-47pf-c0g-%c2%b11-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/ |
+| Blue LED 0402 | Blue indicator LED | 2 | 0.38 |https://www.digikey.in/en/products/detail/w%C3%BCrth-elektronik/150080BS75000/4489912 |
+| Red LED 0402 | Red indicator LED | 2 | 0.38 |https://www.digikey.in/en/products/detail/w%C3%BCrth-elektronik/150080SS75000/4489921 |
+| BLM15AX102SN1D | Ferrite bead 1kΩ @100MHz 0402 | 2 | 0.20 | https://www.digikey.in/en/products/detail/murata-electronics/BLM15AX102SN1D/2256877|
+| 0900FM15K0039001E | LoRa RF front-end filter | 2 | 0.90 |https://www.digikey.in/en/products/detail/johanson-technology-inc/0900FM15K0039001E/16639329 |
+| USB-C Port | USB Type-C receptacle | 2 | 1.54 |https://www.digikey.in/en/products/detail/gct/USB4105-GF-A/11198441 |
+| SMA Connector | RF antenna connector | 2 | 6.56 |https://www.digikey.in/en/products/detail/taoglas-limited/EMPCB-SMAFSTJ-B-HT/3522337 |
+| 15uH 0402 Inductor | Power inductor 15uH | 3 | 0.12 |https://www.digikey.in/en/products/detail/murata-electronics/LQW15DN150M00D/9559544 |
+| 47nH 0402 Inductor | RF inductor 47nH | 2 | 0.20 | https://www.digikey.in/en/products/detail/murata-electronics/LQG15WH47NJ02D/11690059|
+| 9.1nH 0402 Inductor | RF inductor 9.1nH | 4 | 0.13 |https://robu.in/product/lqw15an9n1g00d-murata-wirewound-inductor-9-1-nh-0-14-ohm-5-5-ghz-540-ma-0402-1005-metric-lqw15a_00/ |
+| 100Ω 0402 Resistor | Resistor 100Ω | 2 | 0.20 | https://www.digikey.in/en/products/detail/yageo/RC0402FR-10100RL/16982189|
+| 10kΩ 0402 Resistor | Resistor 10kΩ | 2 | 0.20 |https://www.digikey.in/en/products/detail/yageo/RT0402FRD0710KL/5926329 |
+| 27.4Ω 0402 Resistor | Resistor 27.4Ω | 4 | 0.40 |https://www.digikey.in/en/products/detail/bourns-inc/CR0402-FX-27R4GLF/3783281 |
+| 1kΩ 0402 Resistor | Resistor 1kΩ | 8 | 0.79 |https://www.digikey.in/en/products/detail/yageo/RC0402FR-071KL/726513 |
+| 5.1kΩ 0402 Resistor | Resistor 5.1kΩ | 4 | 0.40 |https://www.digikey.in/en/products/detail/yageo/RC0402FR-135K1L/14286364 |
+| Tactile Switch | Reset / Boot tactile switch | 4 | 0.88 |https://www.digikey.in/en/products/detail/same-sky-formerly-cui-devices/TS09-63-25-WT-260-SMT-TR/15839064 |
 | SX1262IMLTRT | LoRa transceiver IC | 2 | 6.22 |https://robu.in/product/sx1262imltrt-semitech-300kbps-general-purposeism1ghz-spi-qfn-24-ep4x4-rf-transceiver-ics-rohs/ |
 | RP2040 | Microcontroller | 2 | 1.74 |https://robu.in/product/raspberry-pi-rp2040/ |
-| W25Q64JVSSIQ | SPI Flash memory | 2 | 4.40 | |
-| AP2127K-3.3 | 3.3V LDO regulator | 2 | 0.38 | |
-| RF Switch SPDT | RF switch SC70-6 | 2 | 1.56 | |
+| W25Q64JVSSIQ | SPI Flash memory | 2 | 4.40 |https://robu.in/product/w25q64jvssiq-winbond-elec-sop-8-208mil-nor-flash-rohs/ |
+| AP2127K-3.3 | 3.3V LDO regulator | 2 | 0.38 |https://www.digikey.in/en/products/detail/diodes-incorporated/AP2127K-3-3TRG1/4470786 |
+| RF Switch SPDT | RF switch SC70-6 | 2 | 1.56 |https://www.digikey.in/en/products/detail/psemi/4259-63/2614473 |
 | 32MHz Crystal | System clock crystal | 2 | 0.88 | https://robu.in/product/yxc-ysx221sl-32mhz-12pf-20ppm-4pad-smd-smt-crystal/|
 | 12MHz Crystal | System clock crystal | 2 | 0.40 |https://robu.in/product/ysx321sl-12mhz-10pf-10ppm-4pins-smd-smt-metal-surface-quartz-crystal-pack-of-2/ |
-| Schottky Diode | Fast switching diode | 2 | 0.46 | |
-| USBLC6-2SC6 | USB ESD protection | 2 | 0.70 | |
-| TPD1E05U06 | ESD protection diode | 2 | 0.70 | |
-| MF-MSMF050 | Resettable fuse | 2 | 1.02 | |
+| Schottky Diode | Fast switching diode | 2 | 0.46 |https://www.digikey.in/en/products/detail/mcc-micro-commercial-components/MBR0520-TP/717250 |
+| USBLC6-2SC6 | USB ESD protection | 2 | 0.70 | https://www.digikey.in/en/products/detail/stmicroelectronics/USBLC6-2SC6/1040559|
+| TPD1E05U06 | ESD protection diode | 2 | 0.70 | https://www.digikey.in/en/products/detail/texas-instruments/TPD1E05U06DPYR/3844805|
+| MF-MSMF050 | Resettable fuse | 2 | 1.02 | https://www.digikey.in/en/products/detail/bourns-inc/MF-MSMF050-30X-2/15926789|
 | Header Pins | Pin headers | 2 | 0.13 |https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/ |
-| 865–868MHz Antenna | Rubber duck antenna | 1 | 0.69 | |
+| 865–868MHz Antenna | Rubber duck antenna | 1 | 0.69 | https://robu.in/product/865-868mhz-1-8-dbi-gain-rubber-duck-antenna/|
 | Solder Wire | Soldering wire | 1 | 3.30 | https://robu.in/product/soldering-wire-1-mm-100g/|
-| Soldering Flux | Flux for soldering | 1 | 3.24 | |
-| Tip Tinner | Soldering tip cleaner | 1 | 5.41 | |
+| Soldering Flux | Flux for soldering | 1 | 3.24 |https://www.amazon.in/dp/B08VHD1VS1?ref=cm_sw_r_cso_wa_apan_dp_CBZ3XEAZ58AZ3J60TK4D&ref_=cm_sw_r_cso_wa_apan_dp_CBZ3XEAZ58AZ3J60TK4D&social_share=cm_sw_r_cso_wa_apan_dp_CBZ3XEAZ58AZ3J60TK4D |
+| Tip Tinner | Soldering tip cleaner | 1 | 5.41 |https://www.amazon.in/dp/B09BQRQ9JF?ref=cm_sw_r_cso_wa_apan_dp_LIGHTSABER1XE9YXXVSO&ref_=cm_sw_r_cso_wa_apan_dp_LIGHTSABER1XE9YXXVSO&social_share=cm_sw_r_cso_wa_apan_dp_LIGHTSABER1XE9YXXVSO |
 | Hot Air Station | YIHUA 8858-IV portable | 1 | 25.09 |https://robu.in/product/yihua-8858-iv-portable-hot-air-station/ |
 | PCB Manufacturing | Printed circuit board | 1 | 24.14 | |
 | **Shipping** | **Shipping fee** | 1 | 13.01 | |
