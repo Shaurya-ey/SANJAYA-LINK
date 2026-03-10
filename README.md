@@ -65,7 +65,7 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 | 0900FM15K0039001E | LoRa RF front-end filter | 2 | 0.90 |https://www.digikey.in/en/products/detail/johanson-technology-inc/0900FM15K0039001E/16639329 |
 | USB-C Port | USB Type-C receptacle | 2 | 1.54 |https://www.digikey.in/en/products/detail/gct/USB4105-GF-A/11198441 |
 | SMA Connector | RF antenna connector | 2 | 6.56 |https://www.digikey.in/en/products/detail/taoglas-limited/EMPCB-SMAFSTJ-B-HT/3522337 |
-| 15uH 0402 Inductor | Power inductor 15uH | 3 | 0.12 |https://www.digikey.in/en/products/detail/murata-electronics/LQW15DN150M00D/9559544 |
+| 15uH 0402 Inductor | Power inductor 15uH | 2 | 0.12 |https://www.digikey.in/en/products/detail/murata-electronics/LQW15DN150M00D/9559544 |
 | 47nH 0402 Inductor | RF inductor 47nH | 2 | 0.20 | https://www.digikey.in/en/products/detail/murata-electronics/LQG15WH47NJ02D/11690059|
 | 9.1nH 0402 Inductor | RF inductor 9.1nH | 4 | 0.13 |https://robu.in/product/lqw15an9n1g00d-murata-wirewound-inductor-9-1-nh-0-14-ohm-5-5-ghz-540-ma-0402-1005-metric-lqw15a_00/ |
 | 100Ω 0402 Resistor | Resistor 100Ω | 2 | 0.20 | https://www.digikey.in/en/products/detail/yageo/RC0402FR-10100RL/16982189|
