@@ -1,17 +1,27 @@
 # SANJAYA-LINK
 
-## Overview
+# 1. Overview
 
 VIDURA-LINK is a custom 1-Watt telemetry and control system built for drones, fixed-wing UAVs, and RC models. While standard ELRS or Crossfire modules are great, I wanted a transparent, fully customizable link based on the RP2040 and SX1262 that I could integrate directly into my own flight controllers and ground stations.
 
 <img width="400" height="400" align="left" alt="pcbfront" src="https://github.com/user-attachments/assets/c3369427-1581-4659-8ab2-9adb238aad8e" /> 
 <img width="400" height="390" align="right" alt="pcbback" src="https://github.com/user-attachments/assets/a0e73dcb-63ba-456d-a128-28c25953e38f" />
 
+## Features
+
+## Why I Made This Project
+I was searching a solution for telemetery of data for my upcoming Drone and Model Rocketry ideas, after researching a lot i found out a guide on Blueprint website on make your own custom LoRa Puck. Then i got deep into that and after researching a lot i found it intresting and do-able, and decided to learn something new.
 
 
+
+
+
+
+## Layouts
 
 
 <img width="947" height="652" alt="Schematic" src="https://github.com/user-attachments/assets/8c92dd71-45e3-4e95-a76a-ea5a56a42677" />
+
 
 
 | Item | Description | Quantity | Total Price (USD) | URL |
