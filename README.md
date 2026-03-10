@@ -3,6 +3,8 @@
 <p align="center">
 <img width="400" height="360"  alt="pcbfront" src="https://github.com/user-attachments/assets/c3369427-1581-4659-8ab2-9adb238aad8e" /> 
 <img width="400" height="360"  alt="pcbback" src="https://github.com/user-attachments/assets/a0e73dcb-63ba-456d-a128-28c25953e38f" />
+<img width="878" height="551" alt="cad" src="https://github.com/user-attachments/assets/a05f3d83-ac48-4b9c-8017-f947cbb91586" />
+
 </p>
  
  ---
