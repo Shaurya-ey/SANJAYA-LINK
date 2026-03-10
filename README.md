@@ -98,3 +98,5 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 # Note:
 - i've included everything including shipping in the BOM.
 - I'm building 2 LoRa boards so that i can verify and use them in my future projects.
+
+**Thank You!!**
