@@ -19,6 +19,7 @@ VIDURA-LINK is a custom 1-Watt telemetry and control system built for drones, fi
 - **AP2112K-3.3** – 3.3V voltage regulator.
 - **PE4259** – RF switch between antenna and transceiver.
 - **Status LEDs** – For easier debugging or indication.
+- **Dimensions:** - 51.82mm x 48.39mm
 
 ## What it is 
 This is a custom-built, compact board that pairs the **RP2040 processor** with an **SX1262 LoRa radio**.
