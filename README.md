@@ -27,6 +27,11 @@ Basically, long-range wireless communicator (through Radio Signals). I designed 
 ## Why I Made This Project
 I was searching a solution for telemetery of data for my upcoming **Drone** and **Model Rocketry** ideas. Then i got deep into this idea and after researching a lot i found it intresting and do-able, and decided to build this from scratch. I’ve spent a lot of time debugging things like the clock settings and power rails to make sure it actually stays running on a battery which was hectic.
 
+## How To Use
+- **Connect:** Plug the module into your computer via the USB-C port to load your code.
+- **Power:**You can run it off a battery or the USB supply; I’ve included a regulator to keep the power clean and stable.
+- **Lesss Goo** Just write your script, upload it, and watch it start communicating over the LoRa network.
+
 ---
 
 # 2. Layouts
@@ -88,3 +93,7 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 | PCB Manufacturing | Printed circuit board | 1 | 24.14 | |
 | **Shipping** | **Shipping fee** | 1 | 13.01 | |
 | **TOTAL** |  |  | **112.65 USD** | |
+
+# Note:
+- i've included everything including shipping in the BOM.
+- I'm building 2 LoRa boards so that i can verify and use them in my future projects.
