@@ -27,7 +27,7 @@ Basically, long-range wireless communicator (through Radio Signals). I designed 
 ## Why I Made This Project
 I was searching a solution for telemetery of data for my upcoming **Drone** and **Model Rocketry** ideas. Then i got deep into this idea and after researching a lot i found it intresting and do-able, and decided to build this from scratch. I’ve spent a lot of time debugging things like the clock settings and power rails to make sure it actually stays running on a battery which was hectic.
 
-
+---
 
 # 2. Layouts
 
@@ -37,6 +37,8 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 ## PCB
 
 <img width="645" height="694" alt="PCBrouted" src="https://github.com/user-attachments/assets/e14998f8-d8f0-4d33-b8d6-00c647cdaa10" />
+
+---
 
 # 3. BOM (Bill Of Materials)
 
