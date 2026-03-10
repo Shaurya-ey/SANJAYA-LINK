@@ -8,6 +8,12 @@ VIDURA-LINK is a custom 1-Watt telemetry and control system built for drones, fi
 <img width="350" height="400" align="right" alt="pcbback" src="https://github.com/user-attachments/assets/a0e73dcb-63ba-456d-a128-28c25953e38f" />
 
 
+
+
+
+
+
+
 ## Features
 
 ## Why I Made This Project
