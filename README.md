@@ -12,13 +12,13 @@
 VIDURA-LINK is a custom 1-Watt telemetry and control system built for drones, fixed-wing UAVs, and RC models. While standard ELRS or Crossfire modules are great, I wanted a transparent, fully customizable link based on the RP2040 and SX1262 that I could integrate directly into my own flight controllers and ground stations.
 
 ## Features
-- RP2040 – Dual-core Cortex-M0+ microcontroller running up to 133 MHz. It handles all logic and communication.
-- SX1262 – LoRa transceiver for long-range, low-power wireless communication (EU bands).
-- 0900FM15K0039001E – RF crystal oscillator for stable timing.
-- W25Q128JVS – 128 Mbit SPI flash memory for additional storage.
-- AP2112K-3.3 – 3.3V voltage regulator.
-- PE4259 – RF switch between antenna and transceiver.
-- Status LEDs – For easier debugging or indication.
+- **RP2040** – Dual-core Cortex-M0+ microcontroller running up to 133 MHz. It handles all logic and communication.
+- **SX1262** – LoRa transceiver for long-range, low-power wireless communication (EU bands).
+- **0900FM15K0039001E** – RF crystal oscillator for stable timing.
+- **W25Q128JVS** – 128 Mbit SPI flash memory for additional storage.
+- **AP2112K-3.3** – 3.3V voltage regulator.
+- **PE4259** – RF switch between antenna and transceiver.
+- **Status LEDs** – For easier debugging or indication.
 
 ## What it is 
 This is a custom-built, compact board that pairs the **RP2040 processor** with an **SX1262 LoRa radio**.
