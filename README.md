@@ -96,7 +96,7 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 | **TOTAL** |  |  | **112.65 USD** | |
 
 # Note:
-- i've included everything including shipping in the BOM.
+- i've included everything including Total Shipping Fee and Cart screen shots in the BOM.
 - I'm building 2 LoRa boards so that i can verify and use them in my future projects.
 
 **Thank You!!**
