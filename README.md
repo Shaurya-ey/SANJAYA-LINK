@@ -100,9 +100,10 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 | Soldering Flux | Flux for soldering | 1 | 3.24 |https://www.amazon.in/dp/B08VHD1VS1?ref=cm_sw_r_cso_wa_apan_dp_CBZ3XEAZ58AZ3J60TK4D&ref_=cm_sw_r_cso_wa_apan_dp_CBZ3XEAZ58AZ3J60TK4D&social_share=cm_sw_r_cso_wa_apan_dp_CBZ3XEAZ58AZ3J60TK4D |
 | Tip Tinner | Soldering tip cleaner | 1 | 5.41 |https://www.amazon.in/dp/B09BQRQ9JF?ref=cm_sw_r_cso_wa_apan_dp_LIGHTSABER1XE9YXXVSO&ref_=cm_sw_r_cso_wa_apan_dp_LIGHTSABER1XE9YXXVSO&social_share=cm_sw_r_cso_wa_apan_dp_LIGHTSABER1XE9YXXVSO |
 | Hot Air Station | YIHUA 8858-IV portable | 1 | 25.09 |https://robu.in/product/yihua-8858-iv-portable-hot-air-station/ |
-| PCB Manufacturing | Printed circuit board | 1 | 24.14 | |
+| PCB Manufacturing + 3-D Printing | Printed circuit board + 3d printing | 1 | 24.14 + 2 | |
+| 2.5x10mm Screws | Screws for Case | 1 | 1.52 | https://robu.in/product/easymech-ss-304-csk-countersunk-philips-head-m2-5-x-6-mm-bolt-25-pcs/ |
 | **Shipping** | **Shipping fee** | 1 | 13.01 | |
-| **TOTAL** |  |  | **112.65 USD** | |
+| **TOTAL** |  |  | **116.17 USD** | |
 
 # Note:
 - I want some Soldering items + Heat gun for Soldering SMD components (as Assembly as a option for PCB Manufacturing is very costly + there will be hefty custom fees on them for 2 assembled boards), that i've included in BOM.
