@@ -49,6 +49,10 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 ## Case And Assembly
 
 
+<p align="center">
+<img width="895" height="604" alt="Image" src="https://github.com/user-attachments/assets/2cca32b4-3ab3-48dc-a5a5-bf8784a1c067" />
+<img width="895" height="604" alt="Image" src="https://github.com/user-attachments/assets/2a55d94a-c7fe-4351-adf0-5c9fe9a444df" />
+
 ---
 
 # 3. BOM (Bill Of Materials)
