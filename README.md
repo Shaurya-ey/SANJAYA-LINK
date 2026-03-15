@@ -46,6 +46,9 @@ I was searching a solution for telemetery of data for my upcoming **Drone** and 
 
 <img width="645" height="694" alt="PCBrouted" src="https://github.com/user-attachments/assets/e14998f8-d8f0-4d33-b8d6-00c647cdaa10" />
 
+## Case And Assembly
+
+
 ---
 
 # 3. BOM (Bill Of Materials)
